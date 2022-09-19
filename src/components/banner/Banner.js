@@ -13,7 +13,12 @@ function Banner() {
 
         <div className="banner__wrapper">
           <div className="title">
-            <div className="title1">Find Out More About How We Work</div>
+            <h2 className="title1">
+              Find Out More <br /> About How We Work
+            </h2>
+          </div>
+          <div className="button">
+            <button className="btn">How We Work</button>
           </div>
         </div>
       </div>
